@@ -1,0 +1,14 @@
+h1 {
+    font-family: Arial, Heveltica, sans-serif;
+    color: #333;
+}
+
+p {
+    font-size: 25px;
+    font-weight: normal;
+    text-align: left;;
+}
+
+blockquote {
+    margin: 0;
+}
