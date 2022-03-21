@@ -1,0 +1,158 @@
+body {
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+section, article {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    display: inline-block;
+    margin: auto, 10px;
+    width: 980px;
+    line-height: 28px;
+    
+}
+
+.first-section {
+    background-color: #afddfb;
+}
+
+header img{
+   width: 150px; 
+}
+
+header nav{
+    margin: 15px, auto;
+    text-align: center;
+}
+
+header nav a{
+    color: #1d1d1d;
+    border-bottom: #1d1d1d solid 2px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.second-section{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.texto-azul{
+    color: #1c81c0;
+}
+
+.texto-amarelo{
+    color: #fff81b;
+}
+
+.third-section h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.third-section h2{
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+.third-section img{
+    width: 450px;
+}
+
+.fourt-section {
+    background-color: #1d80c1;
+}
+
+.fourt-section p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.fourt-section ul{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+
+}
+
+.fourt-section h2{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.fift-section h2{
+    color: #1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.fift-section img{
+    width: 450px;
+}
+
+footer article{
+    color: #ffffff;
+    background-color: #1c81c0;
+}
+
+footer article p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer ul{
+    list-style: none;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+
+}
+
+footer ul li{
+    color: #1c81c0;
+    background-color: #ffffff;
+    padding: 2px 5px;
+    border-radius: 5px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+footer ul li a{
+    color: #1c81c0;
+}
+
+footer iframe{
+    width: 1005px;
+    height: 300px;
+}
